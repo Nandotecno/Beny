@@ -1,4 +1,4 @@
-/ situa em qual package ou "pacote" está a classe 
+// situa em qual package ou "pacote" está a classe 
 package br.com.projeto.factory; 
 // faz as importações de classes necessárias para o funcionamento do programa 
 import java.sql.Connection; 
